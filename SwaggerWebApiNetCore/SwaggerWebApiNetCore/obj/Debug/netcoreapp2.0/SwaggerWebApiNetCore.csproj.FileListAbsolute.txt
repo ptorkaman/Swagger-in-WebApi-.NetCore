@@ -1,0 +1,12 @@
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.AssemblyInfo.cs
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.deps.json
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.runtimeconfig.json
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.runtimeconfig.dev.json
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.dll
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.xml
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\bin\Debug\netcoreapp2.0\SwaggerWebApiNetCore.pdb
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.dll
+c:\users\admin\source\repos\SwaggerWebApiNetCore\SwaggerWebApiNetCore\obj\Debug\netcoreapp2.0\SwaggerWebApiNetCore.pdb
